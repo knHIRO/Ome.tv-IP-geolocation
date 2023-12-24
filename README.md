@@ -18,5 +18,3 @@
 <img src="/img/4.png">
 
 <p>• Open <a href="https://ome.tv">Ome.tv</a> and enjoy</p>
-
-
